@@ -1,4 +1,4 @@
-# 🎬 DIO - Trilha .NET - Banco de Dados  
+# DIO - Trilha .NET - Banco de Dados  
 🌐 [www.dio.me](https://www.dio.me)
 
 ## 📌 Desafio de projeto
